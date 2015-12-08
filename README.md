@@ -32,4 +32,5 @@ MySQLdb (to query from MySQL databases)
 > **Note**: Included in `string700_data.p` and `/stored_vals` are pickled files allowing the user to run MADSS using a pruned PPI network from STRING v9.1 (http://string91.embl.de/, see `/madss_libraries/madss_interactome.py`). In `/stored_vals` we additionally include drug targets from DrugBank v3 for drugs in the acute MI gold standard so the user can generate output from MADSS without needing to connect to an external database (DrugBank, http://www.drugbank.ca/). To investigate other drugs and phenotypes, the user will have to manually compile a list of drug targets or create a local version of the DrugBank database to query.
 
 MADSS is released under a Creative Commons BY-NC-SA 4.0 license. For complete details see LICENSE.txt or visit http://creativecommons.org/licenses/by-nc-sa/4.0/
-![CC BY-NC-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/200px-Cc-by-nc-sa_icon.svg.png)
+
+![CC BY-NC-SA 4.0](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cc-by-nc-sa_icon.svg/100px-Cc-by-nc-sa_icon.svg.png)
