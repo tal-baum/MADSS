@@ -11,7 +11,7 @@ http://onlinelibrary.wiley.com/doi/10.1002/cpt.2/abstract
 First author: tal.lorberbaum_columbia.edu  
 Corresponding author: nick.tatonetti_columbia.edu
 
-To run MADSS, run the MADSS.py Python script along with the name of the adverse event/ phenotype of interest. For example, to investigate acute myocardial infarction (MI):
+To run MADSS, run the MADSS.py Python script along with the name of the adverse event/ phenotype of interest. For example, to investigate acute myocardial infarction (MI):  
 `python MADSS.py MI`
 
 Seed sets are available for the following phenotypes:
