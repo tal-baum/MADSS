@@ -4,7 +4,7 @@
 Modular Assembly of Drug Safety Subnetworks  
 Updated December 7, 2015
 
-This folder contains all of the files necessary to run MADSS. For a description of the algorithm, please see the following publication:
+This folder contains all of the files necessary to run MADSS. For a description of the algorithm, please see madss.tatonettilab.org and the following publication:
 
 Lorberbaum, T., Nasir, M., Keiser, M., Vilar, S., Hripcsak, G. and Tatonetti, N. (2015), Systems Pharmacology Augments Drug Safety Surveillance. *Clinical Pharmacology & Therapeutics*, 97: 151–158. doi: 10.1002/cpt.2
 http://onlinelibrary.wiley.com/doi/10.1002/cpt.2/abstract  
